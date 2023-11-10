@@ -1,0 +1,63 @@
+body{
+
+
+
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+
+
+
+  padding:0;
+
+  margin:0;
+
+  background-color:#f4f4f4 0%;
+
+  background-color:#00f 20%;
+
+  background-color: #0f0 100%;
+
+}
+
+.button_1{
+
+
+
+  height:38px;
+
+  background:#e8491d;
+
+  background: #00f;
+
+  border:0;
+
+  padding-left: 20px;
+
+  padding-right:20px;
+
+  color:#ffffff;
+
+  transition: 2s;
+
+  
+
+  #newsletter button, .quote button{
+
+
+
+    display:block;
+
+
+
+    width:100%;
+
+}{  #newsletter form input[type="email"], .quote input, .quote textarea{
+
+
+
+    width:100%;
+
+    margin-bottom:5px;
+
+  }
+
+  
